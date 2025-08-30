@@ -10,3 +10,4 @@ The analysis revealed that:
 3. Better availability of parking correlates with higher acceptance of parking permit pricing.
 
 Based on these insights, actionable recommendations—such as scooter rentals, increased shuttle frequency, and enhanced safety measures—were proposed to improve campus life and support academic success.
+Note: Due to confidentiality, survey data/results are not shared; SPSS data is encrypted.

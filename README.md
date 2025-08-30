@@ -3,10 +3,10 @@ This project analyzes student satisfaction and behavior related to parking facil
 
 The analysis revealed that:
 
-Poor parking availability negatively affects academic pursuits (coefficient = -0.463, p = 0.009).
+1. Poor parking availability negatively affects academic pursuits (coefficient = -0.463, p = 0.009).
 
-Negative perceptions of convenience and safety significantly reduce overall student experience.
+2. Negative perceptions of convenience and safety significantly reduce overall student experience.
 
-Better availability of parking correlates with higher acceptance of parking permit pricing.
+3. Better availability of parking correlates with higher acceptance of parking permit pricing.
 
 Based on these insights, actionable recommendations—such as scooter rentals, increased shuttle frequency, and enhanced safety measures—were proposed to improve campus life and support academic success.
